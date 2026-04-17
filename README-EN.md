@@ -1,8 +1,9 @@
-👋 Hi, I’m Yan Azevedo
+                       👋 Hi, I’m Yan Azevedo
 📍 São Paulo, Brazil
 💼 Technical Consultant in Innovation & Adoption @ Cloud Target
+🎓 Bachelor’s Degree in Artificial Intelligence, Machine Learning, Generative AI and Natural Language Processing (NLP) — FIAP (Online Program) | Start: 2026 · Expected completion: 2028
 
-👨‍💻 About Me
+                             👨‍💻 About Me
 I work where AI meets real work.
 No hype. No empty demos. Real adoption.
 I’m currently a Technical Consultant in Innovation & Adoption at Cloud Target, focused on Microsoft 365 Copilot, Copilot Studio, and AI agents applied to enterprise environments.

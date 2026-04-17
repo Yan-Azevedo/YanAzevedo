@@ -1,6 +1,7 @@
                            👋 Olá, eu sou Yan Azevedo
 📍 São Paulo, Brasil
 💼 Consultor Técnico de Inovação & Adoção @ Cloud Target
+🎓 Graduação em Inteligência Artificial, Machine Learning, IA Generativa e Processamento de Linguagem Natural (NLP) — FIAP (Curso Online) | Início: 2026 · Conclusão prevista: 2028
 
                                 👨‍💻 Sobre mim
 Atuo onde IA encontra o trabalho real.
